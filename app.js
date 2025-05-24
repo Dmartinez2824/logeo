@@ -28,6 +28,7 @@ app.use(express.urlencoded({extended:true}))
  return  res.json({"registro" : true});
  })
 
+//  datos base de base de datos
  app.listen(3000);
  const conexion = mysql.createConnection({
   host: "localhost",
