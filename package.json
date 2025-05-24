@@ -1,0 +1,19 @@
+{
+  "name": "logeo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": ""
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "mysql": "^2.18.1"
+  },
+  "description": ""
+}
